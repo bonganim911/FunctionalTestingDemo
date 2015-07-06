@@ -1,7 +1,7 @@
 # FunctionalTestingDemo
 This is a skeleton application to demostrate appium Android Functional Testing.
 
-## Prerequites
+## Prerequisites
 
 ## Install dependencies
 - Android SDK
