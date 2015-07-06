@@ -1,5 +1,5 @@
 # FunctionalTestingDemo
-This is a skeleton application to demotrate appium Android Functional Testing.
+This is a skeleton application to demostrate appium Android Functional Testing.
 
 ## Prerequites
 
@@ -11,7 +11,7 @@ This is a skeleton application to demotrate appium Android Functional Testing.
 ## Step by Step installations of dependencies
 ### Android Setup
 - Android SDK (http://developer.android.com/sdk/index.html). Once you download the file and unzip
-  Once done, update the system variable to include sdk as well. 
+  Once done, update the system variable to include sdk as well, Below is an example on how I do mine: 
   export ANDROID_HOME=/Users/bonganimthembu/Development/SDK
   export PATH =${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 - Launch the SDK manager to download relevant files to create an emulator and run the virtual device. 
